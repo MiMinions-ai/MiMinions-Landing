@@ -1,2 +1,2 @@
 # MiMinions-web
-Here is a website for the company main page.
+This is the website for MiMinions.ai
