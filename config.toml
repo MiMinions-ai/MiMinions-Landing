@@ -72,3 +72,10 @@ copyright = "© MiMinions.ai {year}"
   name = "blog"
   title = "Blog"
   url = "/blog"
+
+
+# [[menu.main]]
+#   identifier = "minions"
+#   name = "minions"
+#   title = "Minions"
+#   url = "/Minions"

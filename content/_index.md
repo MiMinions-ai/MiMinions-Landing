@@ -1,6 +1,6 @@
 ---
 heading: "Welcome to MiMinions"
-subheading: "We are the go to AI Agent Platform for SMEs"
+subheading: "The AI agents platform built for human to serve human."
 handle: "MiMinions"
 icon: "ss"
 ---
