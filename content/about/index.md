@@ -34,6 +34,7 @@ Experience:
 + 13 years accumulated experience across different industries
 + M.Eng. Intelligent System
 + HBAP Graduate
+[Linkedin](https://www.linkedin.com/in/sheng-xiong-ding/)
 
 Contact us at
 --------------------------
