@@ -12,7 +12,7 @@ toc: true
 
 Mission
 --------------------------
-The go-to AI agent platform for humans to serve human.
+The go-to AI agent platform for entrepreneurs to serve entrepreneurs.
 
 Vision
 --------------------------
