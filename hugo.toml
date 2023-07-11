@@ -73,9 +73,20 @@ copyright = "© MiMinions.ai {year}"
   title = "Blog"
   url = "/blog"
 
+[[menu.main]]
+  identifier = "contact"
+  name = "contact"
+  title = "Contact"
+  url = "/contact"
 
-# [[menu.main]]
-#   identifier = "minions"
-#   name = "minions"
-#   title = "Minions"
-#   url = "/Minions"
+[[menu.main]]
+  identifier = "FAQ"
+  name = "FAQ"
+  title = "Frequently Asked Questions"
+  url = "/FAQ"
+
+[[menu.main]]
+  identifier = "minions"
+  name = "minions"
+  title = "Minions"
+  url = "/minions"
