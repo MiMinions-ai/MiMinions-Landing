@@ -1,10 +1,10 @@
 # Website style
-theme = 'codex'
+# theme = 'codex'
 
 # Metadata for the site
 baseURL = 'https://www.MiMinions.ai'
 languageCode = 'en-us'
-title = 'MiMinions - AI for Everyone'
+title = 'MiMinions'
 copyright = "© MiMinions.ai {year}"
 
 # Add your Disqus shortname here.
@@ -60,33 +60,37 @@ copyright = "© MiMinions.ai {year}"
   name = "home"
   title = "Home"
   url = "/"
-
-[[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
-  url = "/about"
+  weight = 1
 
 [[menu.main]]
   identifier = "blog"
   name = "blog"
   title = "Blog"
   url = "/blog"
+  weight = 2
+
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/about"
+  weight = 3
 
 [[menu.main]]
   identifier = "contact"
   name = "contact"
   title = "Contact"
   url = "/contact"
+  weight = 4
 
-[[menu.main]]
-  identifier = "FAQ"
-  name = "FAQ"
-  title = "Frequently Asked Questions"
-  url = "/FAQ"
+# [[menu.main]]
+#   identifier = "FAQ"
+#   name = "FAQ"
+#   title = "Frequently Asked Questions"
+#   url = "/FAQ"
 
-[[menu.main]]
-  identifier = "minions"
-  name = "minions"
-  title = "Minions"
-  url = "/minions"
+# [[menu.main]]
+#   identifier = "minions"
+#   name = "minions"
+#   title = "Minions"
+#   url = "/minions"
