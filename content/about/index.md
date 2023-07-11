@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2023-05-26T21:05:38-06:00
+date: 2023-07-11T13:05:38
 slug: ""
 description: ""
 keywords: []
@@ -9,6 +9,9 @@ tags: []
 math: false
 toc: true
 ---
+
+Overview
+--------------------------
 
 Welcome to MiMinions.ai, the cutting-edge AI agents platform designed with a human-centric approach. Our mission is to create AI that serves humans in the most efficient and intuitive ways possible.
 
