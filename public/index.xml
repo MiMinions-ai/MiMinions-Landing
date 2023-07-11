@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MiMinions - AI for Everyone</title>
+    <title>MiMinions</title>
     <link>https://www.MiMinions.ai/</link>
-    <description>Recent content on MiMinions - AI for Everyone</description>
+    <description>Recent content on MiMinions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© MiMinions.ai {year}</copyright>
-    <lastBuildDate>Fri, 26 May 2023 17:56:38 -0600</lastBuildDate><atom:link href="https://www.MiMinions.ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 May 2023 21:05:38 -0600</lastBuildDate><atom:link href="https://www.MiMinions.ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://www.MiMinions.ai/about/</link>
-      <pubDate>Fri, 26 May 2023 21:05:38 -0600</pubDate>
+      <pubDate>Tue, 11 Jul 2023 13:05:38 +0000</pubDate>
       
       <guid>https://www.MiMinions.ai/about/</guid>
-      <description>Mission To build the go-to AI agent platform for human to serve human.
-Vision A world where humans can live and work to their heart content, while their minions take care of what is left.
-Safety Safety of AI is critical. To excel, we will have to deploy guard rail from the root. To know more about AI safety and ethical implication, check the link below:
-Center for AI Safety</description>
+      <description>Overview Welcome to MiMinions.ai, the cutting-edge AI agents platform designed with a human-centric approach. Our mission is to create AI that serves humans in the most efficient and intuitive ways possible.
+At MiMinions.ai, we harness the power of artificial intelligence to develop intelligent agents that perform tasks, solve problems, and streamline processes for individuals and businesses alike. Our platform is built on robust AI technologies and algorithms, designed to adapt to diverse scenarios and applications, enabling seamless interactions and engagements.</description>
     </item>
     
     <item>
@@ -26,17 +24,8 @@ Center for AI Safety</description>
       <pubDate>Fri, 26 May 2023 21:05:38 -0600</pubDate>
       
       <guid>https://www.MiMinions.ai/contact/</guid>
-      <description>Contact us Phone: (780)952-1077
+      <description>Phone: (780)952-1077
 Email: info@miminions.ai</description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>https://www.MiMinions.ai/faq/</link>
-      <pubDate>Fri, 26 May 2023 21:05:38 -0600</pubDate>
-      
-      <guid>https://www.MiMinions.ai/faq/</guid>
-      <description>Frequently Asked Questions Q: Would AI system pose danger to society? A: Just as intellgent human can pose danger to soceity, there are multiple ways possible for AI systems to cause harms to society. There have been numerical discussions between AI pioneers and domain experts which we shall not repeat here. Just like when cars first invented, along side with the conveniences, it also introduced trumoudous challenges to the society. As result, nowadays, we have fully developped traffic system, vehicle regulations and all.</description>
     </item>
     
     <item>
