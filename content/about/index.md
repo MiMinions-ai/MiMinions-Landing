@@ -13,13 +13,9 @@ toc: true
 Overview
 --------------------------
 
-Welcome to MiMinions.ai, the cutting-edge AI agents platform designed with a human-centric approach. Our mission is to create AI that serves humans in the most efficient and intuitive ways possible.
+Welcome to MiMinions.ai, the future AI agents platform designed with a human-centric approach. Our mission is to create AI that serves humans in the most efficient and intuitive ways possible.
 
-At MiMinions.ai, we harness the power of artificial intelligence to develop intelligent agents that perform tasks, solve problems, and streamline processes for individuals and businesses alike. Our platform is built on robust AI technologies and algorithms, designed to adapt to diverse scenarios and applications, enabling seamless interactions and engagements.
-
-Every AI minion we create is testament to our commitment to quality, functionality, and user experience. We believe in a future where AI not only enhances human capabilities but also understands and respects our values, priorities, and uniqueness.
-
-Join us as we continue to reshape the landscape of AI technology, making it more accessible, intuitive, and beneficial for everyone.
+At MiMinions.ai, we harness the power of artificial intelligence to develop intelligent agents that perform tasks, solve problems, and streamline processes for individuals and businesses alike. Our platform will be connected with robust AI technologies and algorithms to adapt to diverse scenarios and applications, enabling seamless interactions and engagements.
 
 Vision
 --------------------------
