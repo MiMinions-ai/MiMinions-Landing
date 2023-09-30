@@ -23,7 +23,7 @@ Our vision is to bridge the gap between humans and AI, transforming how people l
 
 Safety
 --------------------------
-Safety of AI is critical. To excel, we will have to deploy guard rail from the root.
+Safety of AI is critical. To excel, we intent to deploy guard rail from the root.
 To know more about AI safety and ethical implication, check the link below:
 
 [Center for AI Safety](https://www.safe.ai/ "Reducing Societal-scale Risks from AI")
