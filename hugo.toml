@@ -74,21 +74,21 @@ copyright = "© MiMinions.ai {year}"
   name = "minions"
   title = "Minions"
   url = "/minions"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   identifier = "about"
   name = "about"
   title = "About"
   url = "/about"
-  weight = 3
+  weight = 5
 
 [[menu.main]]
   identifier = "our value"
   name = "Our Value"
   title = "Our Value"
   url = "/our-value"
-  weight = 2
+  weight = 4
 
 [[menu.main]]
   identifier = "contact"

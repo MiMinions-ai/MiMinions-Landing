@@ -14,8 +14,8 @@
       <pubDate>Wed, 12 Jul 2023 15:05:38 +0000</pubDate>
       
       <guid>https://www.MiMinions.ai/our-value/</guid>
-      <description>Overview Our platform helps the small and medium busienss owners and freelancers to have access and use the latest AI agents in a care free manner. While connect the AI builders to the users and help them to benefit money from their AI agents services
-AI Users We provide them with access to the latest AI technology and use it to automate your business processes and accelerate your business into 21 centry with a click of a button.</description>
+      <description>For AI Users We provide them with access to the latest AI technology and use it to automate your business processes and accelerate your business into 21 centry with a click of a button.
+For AI Builders We have built a platform that allows the next gen AI creators to easily create new AI agents and deploy them on our platform. The AI creators can monitor the performance of their AI agents, and can easily profit from the usage of their AI agents.</description>
     </item>
     
     <item>
@@ -36,6 +36,16 @@ At MiMinions.ai, we harness the power of artificial intelligence to develop inte
       <guid>https://www.MiMinions.ai/contact/</guid>
       <description>Phone: (780)952-1077
 Email: info@miminions.ai</description>
+    </item>
+    
+    <item>
+      <title>Minions</title>
+      <link>https://www.MiMinions.ai/minions/</link>
+      <pubDate>Fri, 26 May 2023 21:05:38 -0600</pubDate>
+      
+      <guid>https://www.MiMinions.ai/minions/</guid>
+      <description>Transport Co-Driver Demo of use case Transport Co-Driver Live Demo Description In this demo, we created a human like dispatcher who can do the following:
+Receive a request from an employee/truck driver Assign a job to the employee/truck driver Monitor the schedule and backlog of the employee/truck driver Re-assign a job to another employee/truck driver if the current employee/truck driver is not available Estimate the job time and idle time/wait time for the employee/truck driver Get the weather information for the employee/truck driver from the city where the job is located </description>
     </item>
     
     <item>

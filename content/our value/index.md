@@ -10,11 +10,8 @@ math: false
 toc: true
 ---
 
-# Overview
-Our platform helps the small and medium busienss owners and freelancers to have access and use the latest AI agents in a care free manner.
-While connect the AI builders to the users and help them to benefit money from their AI agents services
 
-# AI Users
+# For AI Users
 We provide them with access to the latest AI technology and use it to automate your business processes and accelerate your business into 21 centry with a click of a button. 
 
 # For AI Builders
