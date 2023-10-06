@@ -13,6 +13,16 @@ copyright = "© MiMinions.ai {year}"
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 # googleAnalytics = "" 
 
+[server]
+[[server.headers]]
+    for = '/**'
+    [server.headers.values]
+      Content-Security-Policy = 'script-src localhost:1313'
+      Referrer-Policy = 'strict-origin-when-cross-origin'
+      X-Content-Type-Options = 'nosniff'
+      X-Frame-Options = 'DENY'
+      X-XSS-Protection = '1; mode=block'
+
 # Optional params
 [params]
   # Follow the Hugo date/time format reference here: 
@@ -63,11 +73,11 @@ copyright = "© MiMinions.ai {year}"
   weight = 1
 
 [[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
-  weight = 4
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/about"
+  weight = 2
 
 [[menu.main]]
   identifier = "minions"
@@ -75,13 +85,6 @@ copyright = "© MiMinions.ai {year}"
   title = "Minions"
   url = "/minions"
   weight = 3
-
-[[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
-  url = "/about"
-  weight = 2
 
 # [[menu.main]]
 #   identifier = "our value"
@@ -91,20 +94,15 @@ copyright = "© MiMinions.ai {year}"
 #   weight = 4
 
 [[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
+  weight = 4
+
+[[menu.main]]
   identifier = "contact"
   name = "contact"
   title = "Contact"
   url = "/contact"
   weight = 5
-
-# [[menu.main]]
-#   identifier = "FAQ"
-#   name = "FAQ"
-#   title = "Frequently Asked Questions"
-#   url = "/FAQ"
-
-# [[menu.main]]
-#   identifier = "minions"
-#   name = "minions"
-#   title = "Minions"
-#   url = "/minions"
