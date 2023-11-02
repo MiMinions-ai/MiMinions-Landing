@@ -93,12 +93,12 @@ copyright = "© MiMinions.ai {year}"
 #   url = "/our-value"
 #   weight = 4
 
-[[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
-  weight = 4
+# [[menu.main]]
+#   identifier = "blog"
+#   name = "blog"
+#   title = "Blog"
+#   url = "/blog"
+#   weight = 4
 
 [[menu.main]]
   identifier = "contact"
