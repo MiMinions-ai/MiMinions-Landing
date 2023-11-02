@@ -1,7 +1,7 @@
 ---
 heading: "Welcome to "
 fancy: "MiMinions.ai"
-subheading: "The AI agents platform built for small medium enterprises and freelancers to create, manage and profit from virtually augmented team."
+subheading: "We build generative AI applications to help people and teams to excel in the age of AI."
 # handle: "MiMinions.ai"
 icon: "ss"
 ---
