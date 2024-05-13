@@ -1,5 +1,5 @@
 # Website style
-# theme = 'codex'
+theme = 'hugo-theme-codex'
 
 # Metadata for the site
 baseURL = 'https://www.MiMinions.ai'
@@ -9,9 +9,6 @@ copyright = "© MiMinions.ai {year}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
-
-# Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = "" 
 
 [server]
 [[server.headers]]

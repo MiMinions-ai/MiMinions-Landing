@@ -2,53 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MiMinions</title>
-    <link>https://www.MiMinions.ai/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on MiMinions</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© MiMinions.ai {year}</copyright>
-    <lastBuildDate>Fri, 26 May 2023 21:05:38 -0600</lastBuildDate><atom:link href="https://www.MiMinions.ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jul 2023 13:05:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://www.MiMinions.ai/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 11 Jul 2023 13:05:38 +0000</pubDate>
-      
-      <guid>https://www.MiMinions.ai/about/</guid>
-      <description>Overview Welcome to MiMinions.ai, the future AI agents platform designed with a human-centric approach. Our mission is to create AI that serves humans in the most efficient and intuitive ways possible.
-At MiMinions.ai, we harness the power of artificial intelligence to develop intelligent agents that perform tasks, solve problems, and streamline processes for individuals and businesses alike. Our platform will be connected with robust AI technologies and algorithms to adapt to diverse scenarios and applications, enabling seamless interactions and engagements.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Overview Welcome to MiMinions.ai, the future AI agents platform designed with a human-centric approach. Our mission is to create AI that serves humans in the most efficient and intuitive ways possible.&#xA;At MiMinions.ai, we harness the power of artificial intelligence to develop intelligent agents that perform tasks, solve problems, and streamline processes for individuals and businesses alike. Our platform will be connected with robust AI technologies and algorithms to adapt to diverse scenarios and applications, enabling seamless interactions and engagements.</description>
     </item>
-    
     <item>
       <title>Contact</title>
-      <link>https://www.MiMinions.ai/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Fri, 26 May 2023 21:05:38 -0600</pubDate>
-      
-      <guid>https://www.MiMinions.ai/contact/</guid>
-      <description>Phone: (780)952-1077
-Email: info@miminions.ai</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Phone: (780)952-1077&#xA;Email: info@miminions.ai</description>
     </item>
-    
     <item>
       <title>Minions</title>
-      <link>https://www.MiMinions.ai/minions/</link>
+      <link>http://localhost:1313/minions/</link>
       <pubDate>Fri, 26 May 2023 21:05:38 -0600</pubDate>
-      
-      <guid>https://www.MiMinions.ai/minions/</guid>
-      <description>Transport Co-Driver Demo of use case Transport Co-Driver Live Demo Description In this demo, we created a human like dispatcher who can do the following:
-Receive a request from an employee/truck driver Assign a job to the employee/truck driver Monitor the schedule and backlog of the employee/truck driver Re-assign a job to another employee/truck driver if the current employee/truck driver is not available Estimate the job time and idle time/wait time for the employee/truck driver Get the weather information for the employee/truck driver from the city where the job is located </description>
+      <guid>http://localhost:1313/minions/</guid>
+      <description>Content to come </description>
     </item>
-    
     <item>
       <title>Origin</title>
-      <link>https://www.MiMinions.ai/blog/origin/</link>
+      <link>http://localhost:1313/blog/origin/</link>
       <pubDate>Fri, 26 May 2023 17:56:38 -0600</pubDate>
-      
-      <guid>https://www.MiMinions.ai/blog/origin/</guid>
-      <description>My name is Roland Ding. I am an AI/ML engineer in Canada.
-You probably would wonder why would I name this platform MiMinions.
-If you are into family movies (like my daughter), you probably would remeber those little yellow creatures from the movie Minions right?
-That is how I would like people to feel about the AI agents. Later I may have to change everything due to the copyright issue, but at this point, respect to the universal studio and illuminations studio because, as the creators of these little creatures, they are awesome!</description>
+      <guid>http://localhost:1313/blog/origin/</guid>
+      <description>My name is Roland Ding. I am an AI/ML engineer in Canada.&#xA;You probably would wonder why would I name this platform MiMinions.&#xA;If you are into family movies (like my daughter), you probably would remeber those little yellow creatures from the movie Minions right?&#xA;That is how I would like people to feel about the AI agents. Later I may have to change everything due to the copyright issue, but at this point, respect to the universal studio and illuminations studio because, as the creators of these little creatures, they are awesome!</description>
     </item>
-    
   </channel>
 </rss>

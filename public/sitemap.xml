@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.MiMinions.ai/about/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-07-12T15:05:38+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-07-11T13:05:38+00:00</lastmod>
   </url><url>
-    <loc>https://www.MiMinions.ai/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2023-05-26T21:05:38-06:00</lastmod>
   </url><url>
-    <loc>https://www.MiMinions.ai/blog/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2023-05-26T21:05:38-06:00</lastmod>
   </url><url>
-    <loc>https://www.MiMinions.ai/contact/</loc>
+    <loc>http://localhost:1313/minions/</loc>
     <lastmod>2023-05-26T21:05:38-06:00</lastmod>
   </url><url>
-    <loc>https://www.MiMinions.ai/minions/</loc>
-    <lastmod>2023-05-26T21:05:38-06:00</lastmod>
-  </url><url>
-    <loc>https://www.MiMinions.ai/blog/origin/</loc>
+    <loc>http://localhost:1313/blog/origin/</loc>
     <lastmod>2023-05-26T17:56:38-06:00</lastmod>
   </url><url>
-    <loc>https://www.MiMinions.ai/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://www.MiMinions.ai/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
